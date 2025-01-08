@@ -12,6 +12,8 @@
     "@astrojs/mdx": "^4.0.3",
     "@astrojs/rss": "^4.0.10",
     "@astrojs/sitemap": "^3.2.1",
-    "astro": "^5.1.1"
+    "@libsql/client": "^0.14.0",
+    "astro": "^5.1.1",
+    "astro-aws-amplify": "^0.1.0"
   }
 }
